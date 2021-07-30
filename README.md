@@ -33,5 +33,5 @@ Secondly, I tokenized the content of the tweets using _todes_ to analyse it usin
 + [_Todes_ analysis code](https://github.com/pedropabloerr/use_of_todes_in_chile/blob/main/code/todes.ipynb)
 + [All tweets database](https://github.com/pedropabloerr/use_of_todes_in_chile/blob/main/databases/todestodoslimpio.csv.zip)
 + [Todes tweets database](https://github.com/pedropabloerr/use_of_todes_in_chile/tree/main/databases#:~:text=.%E2%80%8A.-,todes2.csv,-final)
-+ [Presentation including visualization (pdf)](https://github.com/pedropabloerr/use_of_todes_in_chile/tree/main/presentation#:~:text=.%E2%80%8A.-,Presentation.pdf,-final)
++ [Presentation including visualizations (pdf)](https://github.com/pedropabloerr/use_of_todes_in_chile/tree/main/presentation#:~:text=.%E2%80%8A.-,Presentation.pdf,-final)
 + [Visualizations in Tableau Public](https://public.tableau.com/views/proyecto_todes/Sheet13?:language=es-ES&:display_count=n&:origin=viz_share_link)
